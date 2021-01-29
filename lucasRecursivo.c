@@ -1,7 +1,7 @@
 /*
 * Programa para obtener la serie de lucas usando recursion
 * Autor: Giron Peregrina Ramon Alonso
-* Github link: 
+* Github link: https://github.com/Alonso9/Serie_de_Lucas_en_c
 **/
 
 
